@@ -22,4 +22,7 @@ public class ProyectoGH {
     public String getNombre(){
         return nombre;
     }
+    public int getValor{
+        return valor;
+    }
 }
